@@ -1,0 +1,200 @@
+2025-10-14 12:04:39,250 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:04:39,250 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:04:39,259 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:04:39,266 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:04:39,270 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:04:39,270 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:04:39,274 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:04:39,319 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 12:04:58,349 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:04:58,349 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:04:58,359 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:04:58,366 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:04:58,370 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:04:58,370 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:04:58,370 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:04:58,416 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 12:15:49,148 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:15:49,149 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:15:49,172 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:15:49,189 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:15:49,200 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:15:49,206 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:15:49,206 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:15:49,314 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 12:28:37,063 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:28:37,063 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:28:37,083 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:28:37,100 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:28:37,111 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:28:37,111 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:28:37,111 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:28:37,208 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 12:34:44,191 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:34:44,192 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:34:44,213 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:34:44,230 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:34:44,238 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:34:44,239 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:34:44,240 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:34:44,362 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 12:35:52,589 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:35:52,589 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:35:52,607 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:35:52,623 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:35:52,632 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:35:52,633 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:35:52,634 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:35:52,738 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 12:36:10,329 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:36:10,329 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:36:10,349 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:36:10,364 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:36:10,375 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:36:10,375 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:36:10,376 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:36:10,472 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 12:40:43,185 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:40:43,186 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:40:43,208 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:40:43,220 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:40:43,229 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:40:43,229 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:40:43,229 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:40:43,327 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 12:56:27,191 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:56:27,191 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 12:56:27,215 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:56:27,230 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:56:27,242 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:56:27,243 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:56:27,243 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 12:56:27,353 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:03:32,004 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:03:32,005 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:03:32,027 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:03:32,043 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:03:32,054 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:03:32,054 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:03:32,054 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:03:32,155 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:05:22,471 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:05:22,472 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:05:22,492 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:05:22,508 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:05:22,520 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:05:22,521 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:05:22,521 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:05:22,611 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:08:29,318 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:08:29,319 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:08:29,345 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:08:29,361 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:08:29,369 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:08:29,370 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:08:29,370 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:08:29,477 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:16:25,227 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:16:25,228 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:16:25,250 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:16:25,267 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:16:25,275 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:16:25,275 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:16:25,275 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:16:25,381 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:17:23,669 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:17:23,670 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:17:23,693 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:17:23,705 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:17:23,727 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:17:23,727 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:17:23,728 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:17:23,839 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:32:43,309 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:32:43,309 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:32:43,329 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:32:43,344 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:32:43,352 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:32:43,353 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:32:43,353 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:32:43,447 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:33:19,577 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:33:19,578 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:33:19,596 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:33:19,612 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:33:19,623 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:33:19,623 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:33:19,624 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:33:19,717 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:36:08,726 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:36:08,727 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:36:08,748 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:36:08,766 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:36:08,777 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:36:08,777 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:36:08,778 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:36:08,887 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:36:31,694 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:36:31,695 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:36:31,717 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:36:31,731 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:36:31,742 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:36:31,743 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:36:31,743 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:36:31,853 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:47:21,451 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:47:21,451 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:47:21,476 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:47:21,493 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:47:21,501 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:47:21,502 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:47:21,502 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:47:21,603 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:54:10,649 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:10,650 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:10,671 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:10,684 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:10,697 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:10,699 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:10,699 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:54:10,807 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:54:28,470 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:28,470 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:28,490 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:28,504 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:28,513 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:28,515 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:28,515 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:54:28,602 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:54:40,294 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:40,294 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:40,314 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:40,329 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:40,338 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:40,339 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:40,339 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:54:40,430 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:54:58,384 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:58,386 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:58,404 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:58,418 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:58,428 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:58,428 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:58,428 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:54:58,525 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 13:55:04,529 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:55:04,530 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 13:55:04,551 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:55:04,569 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:55:04,579 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:55:04,580 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:55:04,580 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 13:55:04,669 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-14 14:07:27,937 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 14:07:27,937 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-14 14:07:27,957 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 14:07:27,971 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 14:07:27,981 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 14:07:27,982 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 14:07:27,983 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-14 14:07:28,101 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully

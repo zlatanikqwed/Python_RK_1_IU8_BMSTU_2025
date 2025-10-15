@@ -1,0 +1,350 @@
+2025-10-14 12:04:39,191 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:04:39,191 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:04:39,201 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:04:39,210 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:04:39,215 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:04:39,215 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:04:39,221 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:04:39,222 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:04:39,222 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:04:39,222 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:04:39,223 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:04:39,223 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:04:39,224 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:04:39,225 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 12:04:58,296 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:04:58,296 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:04:58,306 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:04:58,315 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:04:58,320 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:04:58,320 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:04:58,320 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:04:58,320 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:04:58,321 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:04:58,321 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:04:58,321 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:04:58,321 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:04:58,323 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:04:58,323 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 12:15:49,010 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:15:49,010 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:15:49,038 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:15:49,058 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:15:49,070 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:15:49,070 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:15:49,071 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:15:49,071 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:15:49,074 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:15:49,074 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:15:49,076 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:15:49,077 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:15:49,084 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:15:49,084 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 12:28:36,939 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:28:36,939 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:28:36,963 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:28:36,985 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:28:36,996 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:28:36,997 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:28:36,997 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:28:36,998 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:28:37,000 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:28:37,000 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:28:37,001 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:28:37,001 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:28:37,004 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:28:37,004 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 12:34:44,067 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:34:44,067 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:34:44,085 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:34:44,107 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:34:44,116 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:34:44,117 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:34:44,117 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:34:44,118 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:34:44,119 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:34:44,120 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:34:44,120 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:34:44,121 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:34:44,124 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:34:44,126 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 12:35:52,462 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:35:52,463 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:35:52,482 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:35:52,505 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:35:52,515 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:35:52,516 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:35:52,516 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:35:52,517 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:35:52,518 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:35:52,519 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:35:52,519 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:35:52,520 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:35:52,527 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:35:52,527 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 12:36:10,201 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:36:10,202 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:36:10,226 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:36:10,249 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:36:10,260 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:36:10,261 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:36:10,262 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:36:10,263 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:36:10,265 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:36:10,265 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:36:10,266 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:36:10,267 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:36:10,270 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:36:10,271 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 12:40:43,067 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:40:43,067 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:40:43,088 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:40:43,111 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:40:43,123 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:40:43,123 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:40:43,123 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:40:43,124 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:40:43,125 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:40:43,125 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:40:43,126 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:40:43,126 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:40:43,129 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:40:43,129 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 12:56:27,057 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:56:27,058 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 12:56:27,079 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:56:27,103 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:56:27,114 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:56:27,115 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:56:27,115 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 12:56:27,116 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 12:56:27,118 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 12:56:27,119 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 12:56:27,121 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 12:56:27,121 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 12:56:27,124 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 12:56:27,125 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:03:31,887 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:03:31,887 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:03:31,907 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:03:31,926 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:03:31,939 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:03:31,940 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:03:31,940 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:03:31,941 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:03:31,942 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:03:31,943 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:03:31,943 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:03:31,944 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:03:31,947 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:03:31,947 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:05:22,343 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:05:22,343 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:05:22,365 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:05:22,389 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:05:22,404 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:05:22,404 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:05:22,404 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:05:22,404 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:05:22,406 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:05:22,406 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:05:22,407 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:05:22,407 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:05:22,410 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:05:22,411 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:08:29,185 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:08:29,185 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:08:29,208 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:08:29,231 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:08:29,243 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:08:29,243 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:08:29,243 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:08:29,244 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:08:29,245 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:08:29,246 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:08:29,247 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:08:29,247 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:08:29,252 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:08:29,253 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:16:25,095 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:16:25,095 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:16:25,122 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:16:25,141 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:16:25,154 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:16:25,155 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:16:25,157 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:16:25,158 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:16:25,160 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:16:25,160 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:16:25,161 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:16:25,161 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:16:25,164 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:16:25,164 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:17:23,546 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:17:23,546 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:17:23,564 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:17:23,583 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:17:23,596 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:17:23,598 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:17:23,598 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:17:23,598 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:17:23,600 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:17:23,600 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:17:23,601 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:17:23,601 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:17:23,605 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:17:23,605 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:32:43,164 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:32:43,164 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:32:43,191 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:32:43,215 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:32:43,229 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:32:43,230 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:32:43,231 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:32:43,232 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:32:43,234 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:32:43,235 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:32:43,236 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:32:43,236 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:32:43,242 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:32:43,243 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:33:19,441 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:33:19,442 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:33:19,467 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:33:19,486 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:33:19,500 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:33:19,501 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:33:19,502 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:33:19,503 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:33:19,504 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:33:19,505 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:33:19,506 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:33:19,507 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:33:19,512 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:33:19,512 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:36:08,590 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:36:08,591 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:36:08,611 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:36:08,640 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:36:08,651 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:36:08,651 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:36:08,652 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:36:08,653 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:36:08,655 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:36:08,656 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:36:08,657 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:36:08,657 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:36:08,662 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:36:08,663 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:36:31,549 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:36:31,549 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:36:31,572 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:36:31,598 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:36:31,613 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:36:31,613 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:36:31,613 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:36:31,614 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:36:31,616 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:36:31,616 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:36:31,617 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:36:31,618 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:36:31,623 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:36:31,624 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:47:21,327 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:47:21,327 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:47:21,347 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:47:21,369 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:47:21,380 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:47:21,381 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:47:21,381 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:47:21,382 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:47:21,384 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:47:21,384 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:47:21,385 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:47:21,385 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:47:21,389 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:47:21,391 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:54:10,527 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:10,527 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:10,549 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:10,570 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:10,581 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:10,582 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:10,582 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:54:10,583 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:54:10,584 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:54:10,585 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:54:10,585 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:54:10,587 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:54:10,590 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:54:10,591 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:54:28,347 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:28,348 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:28,367 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:28,388 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:28,398 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:28,399 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:28,399 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:54:28,399 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:54:28,401 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:54:28,402 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:54:28,403 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:54:28,404 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:54:28,408 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:54:28,408 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:54:40,174 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:40,175 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:40,196 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:40,214 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:40,225 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:40,226 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:40,227 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:54:40,228 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:54:40,229 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:54:40,230 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:54:40,231 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:54:40,231 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:54:40,235 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:54:40,235 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:54:58,264 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:58,264 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:58,284 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:58,306 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:58,315 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:58,316 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:58,316 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:54:58,317 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:54:58,318 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:54:58,319 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:54:58,319 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:54:58,320 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:54:58,322 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:54:58,323 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 13:55:04,411 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:55:04,411 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 13:55:04,431 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:55:04,453 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:55:04,465 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:55:04,465 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:55:04,466 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 13:55:04,467 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 13:55:04,469 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 13:55:04,469 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 13:55:04,469 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 13:55:04,470 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 13:55:04,475 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 13:55:04,475 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully
+2025-10-14 14:07:27,787 — ScientificAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 14:07:27,787 — ScientificAnalyzer — INFO — Starting JSON load
+2025-10-14 14:07:27,808 — ScientificAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 14:07:27,829 — ScientificAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 14:07:27,844 — ScientificAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 14:07:27,844 — ScientificAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 14:07:27,846 — ScientificAnalyzer — INFO — Starting Scientific Potential analysis
+2025-10-14 14:07:27,846 — ScientificAnalyzer — INFO — Calculating metric: degree_distribution
+2025-10-14 14:07:27,850 — ScientificAnalyzer — INFO — Metric calculated: degree_distribution = 21
+2025-10-14 14:07:27,850 — ScientificAnalyzer — INFO — Calculating metric: avg_certificates_per_employee
+2025-10-14 14:07:27,851 — ScientificAnalyzer — INFO — Metric calculated: avg_certificates_per_employee = 2.9
+2025-10-14 14:07:27,851 — ScientificAnalyzer — INFO — Calculating metric: top_performers
+2025-10-14 14:07:27,857 — ScientificAnalyzer — INFO — Metric calculated: top_performers = 2
+2025-10-14 14:07:27,862 — ScientificAnalyzer — INFO — Scientific Potential analysis completed successfully

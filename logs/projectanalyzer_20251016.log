@@ -1,0 +1,266 @@
+2025-10-16 00:03:07,703 — ProjectAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-16 00:03:07,704 — ProjectAnalyzer — INFO — Starting JSON load
+2025-10-16 00:03:07,724 — ProjectAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:03:07,742 — ProjectAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-16 00:03:07,753 — ProjectAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:03:07,754 — ProjectAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:03:07,761 — ProjectAnalyzer — INFO — Starting Project Analysis analysis
+2025-10-16 00:03:07,762 — ProjectAnalyzer — INFO — Calculating metric: avg_duration_days
+2025-10-16 00:03:07,763 — ProjectAnalyzer — INFO — Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:03:07,763 — ProjectAnalyzer — INFO — Calculating metric: success_rate_percent
+2025-10-16 00:03:07,764 — ProjectAnalyzer — INFO — Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:03:07,765 — ProjectAnalyzer — INFO — Calculating metric: longest_project
+2025-10-16 00:03:07,767 — ProjectAnalyzer — INFO — Metric calculated: longest_project = 302
+2025-10-16 00:03:07,768 — ProjectAnalyzer — INFO — Project Analysis analysis completed successfully
+2025-10-16 00:05:09,765 — ProjectAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-16 00:05:09,766 — ProjectAnalyzer — INFO — Starting JSON load
+2025-10-16 00:05:09,793 — ProjectAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:05:09,811 — ProjectAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-16 00:05:09,822 — ProjectAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:05:09,823 — ProjectAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:05:09,823 — ProjectAnalyzer — INFO — Starting Project Analysis analysis
+2025-10-16 00:05:09,825 — ProjectAnalyzer — INFO — Calculating metric: avg_duration_days
+2025-10-16 00:05:09,826 — ProjectAnalyzer — INFO — Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:05:09,826 — ProjectAnalyzer — INFO — Calculating metric: success_rate_percent
+2025-10-16 00:05:09,827 — ProjectAnalyzer — INFO — Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:05:09,827 — ProjectAnalyzer — INFO — Calculating metric: longest_project
+2025-10-16 00:05:09,829 — ProjectAnalyzer — INFO — Metric calculated: longest_project = 302
+2025-10-16 00:05:09,830 — ProjectAnalyzer — INFO — Project Analysis analysis completed successfully
+2025-10-16 00:06:35,047 — ProjectAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-16 00:06:35,048 — ProjectAnalyzer — INFO — Starting JSON load
+2025-10-16 00:06:35,068 — ProjectAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:06:35,082 — ProjectAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-16 00:06:35,090 — ProjectAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:06:35,090 — ProjectAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:06:35,091 — ProjectAnalyzer — INFO — Starting Project Analysis analysis
+2025-10-16 00:06:35,091 — ProjectAnalyzer — INFO — Calculating metric: avg_duration_days
+2025-10-16 00:06:35,092 — ProjectAnalyzer — INFO — Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:06:35,092 — ProjectAnalyzer — INFO — Calculating metric: success_rate_percent
+2025-10-16 00:06:35,093 — ProjectAnalyzer — INFO — Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:06:35,095 — ProjectAnalyzer — INFO — Calculating metric: longest_project
+2025-10-16 00:06:35,098 — ProjectAnalyzer — INFO — Metric calculated: longest_project = 302
+2025-10-16 00:06:35,099 — ProjectAnalyzer — INFO — Project Analysis analysis completed successfully
+2025-10-16 00:08:34,220 — ProjectAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-16 00:08:34,221 — ProjectAnalyzer — INFO — Starting JSON load
+2025-10-16 00:08:34,242 — ProjectAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:08:34,258 — ProjectAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-16 00:08:34,271 — ProjectAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:08:34,272 — ProjectAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:08:34,273 — ProjectAnalyzer — INFO — Starting Project Analysis analysis
+2025-10-16 00:08:34,273 — ProjectAnalyzer — INFO — Calculating metric: avg_duration_days
+2025-10-16 00:08:34,274 — ProjectAnalyzer — INFO — Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:08:34,274 — ProjectAnalyzer — INFO — Calculating metric: success_rate_percent
+2025-10-16 00:08:34,275 — ProjectAnalyzer — INFO — Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:08:34,275 — ProjectAnalyzer — INFO — Calculating metric: longest_project
+2025-10-16 00:08:34,277 — ProjectAnalyzer — INFO — Metric calculated: longest_project = 302
+2025-10-16 00:08:34,278 — ProjectAnalyzer — INFO — Project Analysis analysis completed successfully
+2025-10-16 00:17:36,997 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:17:36,997 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:17:37,016 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:17:37,032 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:17:37,042 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:17:37,042 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:17:37,043 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:17:37,044 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:17:37,044 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:17:37,044 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:17:37,045 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:17:37,046 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:17:37,048 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:17:37,048 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:21:13,853 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:21:13,854 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:21:13,872 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:21:13,891 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:21:13,901 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:21:13,902 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:21:13,902 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:21:13,903 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:21:13,904 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:21:13,904 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:21:13,906 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:21:13,907 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:21:13,910 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:21:13,911 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:23:11,971 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:23:11,971 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:23:11,992 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:23:12,016 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:23:12,025 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:23:12,025 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:23:12,025 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:23:12,026 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:23:12,026 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:23:12,026 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:23:12,027 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:23:12,028 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:23:12,034 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:23:12,034 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:23:47,864 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:23:47,866 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:23:47,894 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:23:47,912 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:23:47,924 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:23:47,925 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:23:47,925 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:23:47,926 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:23:47,927 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:23:47,927 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:23:47,929 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:23:47,929 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:23:47,932 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:23:47,932 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:35:20,532 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:35:20,532 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:35:20,558 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:35:20,574 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:35:20,584 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:35:20,584 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:35:20,585 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:35:20,586 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:35:20,587 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:35:20,588 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:35:20,590 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:35:20,590 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:35:20,592 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:35:20,593 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:39:27,896 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:39:27,896 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:39:27,922 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:39:27,938 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:39:27,950 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:39:27,951 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:39:27,951 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:39:27,951 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:39:27,952 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:39:27,952 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:39:27,955 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:39:27,955 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:39:27,957 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:39:27,958 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:43:20,713 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:43:20,714 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:43:20,734 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:43:20,758 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:43:20,768 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:43:20,769 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:43:20,769 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:43:20,769 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:43:20,770 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:43:20,771 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:43:20,772 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:43:20,772 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:43:20,775 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:43:20,775 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:44:40,215 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:44:40,217 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:44:40,240 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:44:40,259 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:44:40,275 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:44:40,276 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:44:40,276 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:44:40,277 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:44:40,278 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:44:40,278 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:44:40,279 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:44:40,279 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:44:40,283 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:44:40,284 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:48:18,743 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:48:18,744 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:48:18,765 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:48:18,783 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:48:18,795 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:48:18,795 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:48:18,796 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:48:18,796 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:48:18,797 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:48:18,797 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:48:18,798 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:48:18,798 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:48:18,800 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:48:18,801 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:50:36,419 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:50:36,419 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:50:36,438 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:50:36,452 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:50:36,462 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:50:36,463 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:50:36,463 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:50:36,464 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:50:36,465 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:50:36,465 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:50:36,466 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:50:36,467 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:50:36,469 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:50:36,470 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:50:50,741 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:50:50,742 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:50:50,768 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:50:50,786 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:50:50,799 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:50:50,799 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:50:50,800 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:50:50,800 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:50:50,801 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:50:50,801 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:50:50,802 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:50:50,803 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:50:50,807 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:50:50,807 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:56:09,924 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:56:09,925 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:56:09,950 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:56:09,974 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:56:09,984 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:56:09,984 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:56:09,985 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:56:09,986 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:56:09,987 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:56:09,987 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:56:09,990 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:56:09,990 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:56:09,993 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:56:09,994 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:57:35,538 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:57:35,539 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:57:35,566 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:57:35,596 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:57:35,617 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:57:35,618 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:57:35,618 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:57:35,619 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:57:35,620 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:57:35,620 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:57:35,621 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:57:35,624 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:57:35,636 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:57:35,637 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 00:59:18,546 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 00:59:18,547 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 00:59:18,566 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 00:59:18,584 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 00:59:18,599 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 00:59:18,600 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 00:59:18,600 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 00:59:18,601 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 00:59:18,602 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 00:59:18,602 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 00:59:18,603 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 00:59:18,603 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 00:59:18,606 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 00:59:18,606 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully
+2025-10-16 01:19:12,764 - ProjectAnalyzer - INFO - Initializing BaseAnalyzer
+2025-10-16 01:19:12,765 - ProjectAnalyzer - INFO - Starting JSON load
+2025-10-16 01:19:12,783 - ProjectAnalyzer - INFO - JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-16 01:19:12,796 - ProjectAnalyzer - INFO - Employees DF built: 21 rows for department_id=26
+2025-10-16 01:19:12,805 - ProjectAnalyzer - INFO - Projects DF built: 8 rows with department_id=26 participation
+2025-10-16 01:19:12,806 - ProjectAnalyzer - INFO - DF ready: employees=21 rows; projects=8 rows
+2025-10-16 01:19:12,806 - ProjectAnalyzer - INFO - Starting Project Analysis analysis
+2025-10-16 01:19:12,807 - ProjectAnalyzer - INFO - Calculating metric: avg_duration_days
+2025-10-16 01:19:12,808 - ProjectAnalyzer - INFO - Metric calculated: avg_duration_days = 193.2
+2025-10-16 01:19:12,808 - ProjectAnalyzer - INFO - Calculating metric: success_rate_percent
+2025-10-16 01:19:12,809 - ProjectAnalyzer - INFO - Metric calculated: success_rate_percent = 50.0
+2025-10-16 01:19:12,810 - ProjectAnalyzer - INFO - Calculating metric: longest_project
+2025-10-16 01:19:12,812 - ProjectAnalyzer - INFO - Metric calculated: longest_project = 302
+2025-10-16 01:19:12,812 - ProjectAnalyzer - INFO - Project Analysis analysis completed successfully

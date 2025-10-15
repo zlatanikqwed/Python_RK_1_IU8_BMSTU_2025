@@ -1,0 +1,264 @@
+2025-10-15 20:42:20,899 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 20:42:20,900 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 20:42:20,927 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 20:42:20,943 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 20:42:20,961 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 20:42:20,961 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 20:42:20,962 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 20:42:20,973 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 20:58:08,367 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 20:58:08,370 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 20:58:08,399 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 20:58:08,414 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 20:58:08,425 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 20:58:08,426 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 20:58:08,426 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 20:58:08,439 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:23:24,639 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:23:24,639 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:23:24,662 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:23:24,679 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:23:24,690 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:23:24,690 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:23:24,690 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:23:24,703 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:30:58,243 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:30:58,244 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:30:58,263 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:30:58,278 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:30:58,288 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:30:58,289 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:30:58,289 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:30:58,305 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:31:32,108 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:31:32,109 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:31:32,128 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:31:32,147 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:31:32,156 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:31:32,157 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:31:32,157 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:31:32,170 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:34:52,795 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:34:52,796 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:34:52,816 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:34:52,830 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:34:52,838 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:34:52,839 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:34:52,840 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:34:52,856 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:37:47,878 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:37:47,879 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:37:47,903 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:37:47,917 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:37:47,928 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:37:47,928 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:37:47,929 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:37:47,947 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:41:56,612 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:41:56,613 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:41:56,637 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:41:56,656 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:41:56,666 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:41:56,667 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:41:56,667 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:41:56,680 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:44:12,840 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:44:12,840 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:44:12,872 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:44:12,889 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:44:12,898 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:44:12,899 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:44:12,900 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:44:12,917 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:48:15,666 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:48:15,666 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:48:15,686 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:48:15,705 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:48:15,715 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:48:15,716 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:48:15,716 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:48:15,731 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:56:35,163 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:56:35,164 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:56:35,186 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:56:35,202 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:56:35,213 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:56:35,213 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:56:35,213 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:56:35,227 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 21:56:59,336 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 21:56:59,336 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 21:56:59,356 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 21:56:59,369 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 21:56:59,379 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 21:56:59,379 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 21:56:59,380 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 21:56:59,391 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:00:05,256 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:00:05,257 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:00:05,279 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:00:05,296 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:00:05,309 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:00:05,309 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:00:05,310 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:00:05,329 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:01:01,084 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:01:01,084 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:01:01,104 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:01:01,120 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:01:01,129 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:01:01,129 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:01:01,130 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:01:01,144 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:10:20,757 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:10:20,758 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:10:20,786 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:10:20,801 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:10:20,812 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:10:20,813 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:10:20,813 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:10:20,827 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:10:55,340 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:10:55,342 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:10:55,365 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:10:55,381 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:10:55,389 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:10:55,390 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:10:55,390 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:10:55,402 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:18:55,155 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:18:55,155 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:18:55,186 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:18:55,201 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:18:55,210 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:18:55,211 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:18:55,211 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:18:55,224 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:25:55,749 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:25:55,749 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:25:55,768 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:25:55,783 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:25:55,792 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:25:55,793 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:25:55,793 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:25:55,804 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:27:10,471 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:27:10,471 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:27:10,493 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:27:10,510 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:27:10,522 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:27:10,523 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:27:10,523 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:27:10,535 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:41:27,588 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:41:27,599 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:41:27,620 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:41:27,640 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:41:27,651 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:41:27,652 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:41:27,653 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:41:27,666 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:42:20,137 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:42:20,138 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:42:20,157 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:42:20,171 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:42:20,183 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:42:20,183 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:42:20,183 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:42:20,197 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 22:54:18,505 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 22:54:18,505 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 22:54:18,524 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 22:54:18,539 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 22:54:18,548 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 22:54:18,550 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 22:54:18,551 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 22:54:18,591 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:08:06,791 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:08:06,792 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:08:06,834 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:08:06,848 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:08:06,857 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:08:06,858 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:08:06,858 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:08:06,871 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:08:38,243 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:08:38,244 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:08:38,287 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:08:38,304 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:08:38,314 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:08:38,314 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:08:38,315 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:08:38,327 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:16:34,832 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:16:34,833 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:16:34,876 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:16:34,890 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:16:34,899 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:16:34,900 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:16:34,900 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:16:34,915 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:21:46,750 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:21:46,750 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:21:46,795 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:21:46,813 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:21:46,824 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:21:46,824 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:21:46,824 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:21:46,840 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:25:05,732 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:25:05,733 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:25:05,781 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:25:05,796 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:25:05,807 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:25:05,808 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:25:05,808 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:25:05,818 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:31:07,094 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:31:07,095 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:31:07,131 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:31:07,145 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:31:07,156 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:31:07,156 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:31:07,156 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:31:07,172 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:31:46,001 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:31:46,002 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:31:46,044 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:31:46,062 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:31:46,074 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:31:46,074 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:31:46,075 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:31:46,091 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:33:11,285 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:33:11,285 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:33:11,332 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:33:11,350 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:33:11,361 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:33:11,362 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:33:11,362 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:33:11,376 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:43:11,893 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:43:11,893 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:43:11,936 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:43:11,950 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:43:11,960 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:43:11,960 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:43:11,960 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:43:11,973 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:46:12,965 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:46:12,965 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:46:13,005 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:46:13,018 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:46:13,028 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:46:13,029 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:46:13,029 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:46:13,042 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully
+2025-10-15 23:50:59,154 — StrategyAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-15 23:50:59,154 — StrategyAnalyzer — INFO — Starting JSON load
+2025-10-15 23:50:59,202 — StrategyAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-15 23:50:59,220 — StrategyAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-15 23:50:59,231 — StrategyAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-15 23:50:59,232 — StrategyAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-15 23:50:59,232 — StrategyAnalyzer — INFO — Starting Development Strategy — dept=26 (allocation-based, simplified) analysis
+2025-10-15 23:50:59,245 — StrategyAnalyzer — INFO — Development Strategy — dept=26 (allocation-based, simplified) analysis completed successfully

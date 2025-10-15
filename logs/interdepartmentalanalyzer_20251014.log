@@ -1,0 +1,250 @@
+2025-10-14 12:04:39,320 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:04:39,321 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:04:39,331 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:04:39,338 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:04:39,342 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:04:39,343 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:04:39,343 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:04:39,343 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:04:39,343 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:04:39,357 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 12:04:58,417 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:04:58,417 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:04:58,427 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:04:58,434 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:04:58,438 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:04:58,438 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:04:58,438 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:04:58,438 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:04:58,439 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:04:58,453 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 12:15:49,317 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:15:49,317 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:15:49,345 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:15:49,381 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:15:49,396 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:15:49,397 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:15:49,397 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:15:49,398 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:15:49,399 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:15:49,438 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 12:28:37,211 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:28:37,212 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:28:37,243 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:28:37,261 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:28:37,272 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:28:37,273 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:28:37,273 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:28:37,274 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:28:37,275 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:28:37,315 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 12:34:44,368 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:34:44,369 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:34:44,391 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:34:44,404 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:34:44,414 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:34:44,414 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:34:44,414 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:34:44,415 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:34:44,416 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:34:44,444 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 12:35:52,741 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:35:52,742 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:35:52,767 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:35:52,782 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:35:52,791 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:35:52,791 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:35:52,792 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:35:52,792 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:35:52,794 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:35:52,831 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 12:36:10,474 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:36:10,474 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:36:10,496 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:36:10,511 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:36:10,523 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:36:10,523 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:36:10,523 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:36:10,524 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:36:10,526 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:36:10,558 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 12:40:43,329 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:40:43,330 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:40:43,350 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:40:43,365 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:40:43,375 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:40:43,375 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:40:43,376 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:40:43,376 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:40:43,377 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:40:43,407 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 12:56:27,355 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 12:56:27,356 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 12:56:27,378 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 12:56:27,394 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 12:56:27,404 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 12:56:27,404 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 12:56:27,405 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 12:56:27,405 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 12:56:27,406 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 12:56:27,437 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:03:32,157 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:03:32,158 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:03:32,177 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:03:32,191 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:03:32,206 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:03:32,208 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:03:32,209 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:03:32,210 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:03:32,211 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:03:32,245 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:05:22,614 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:05:22,615 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:05:22,636 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:05:22,652 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:05:22,660 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:05:22,660 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:05:22,660 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:05:22,661 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:05:22,662 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:05:22,690 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:08:29,480 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:08:29,480 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:08:29,501 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:08:29,518 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:08:29,531 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:08:29,531 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:08:29,532 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:08:29,532 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:08:29,533 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:08:29,563 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:16:25,383 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:16:25,383 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:16:25,404 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:16:25,419 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:16:25,427 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:16:25,428 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:16:25,428 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:16:25,430 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:16:25,432 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:16:25,464 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:17:23,842 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:17:23,843 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:17:23,863 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:17:23,876 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:17:23,885 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:17:23,885 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:17:23,885 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:17:23,886 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:17:23,886 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:17:23,914 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:32:43,449 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:32:43,450 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:32:43,475 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:32:43,493 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:32:43,503 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:32:43,504 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:32:43,504 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:32:43,505 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:32:43,507 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:32:43,542 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:33:19,719 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:33:19,720 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:33:19,742 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:33:19,757 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:33:19,768 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:33:19,768 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:33:19,769 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:33:19,770 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:33:19,771 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:33:19,798 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:36:08,889 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:36:08,890 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:36:08,913 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:36:08,929 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:36:08,940 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:36:08,940 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:36:08,940 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:36:08,941 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:36:08,943 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:36:08,971 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:36:31,855 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:36:31,856 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:36:31,881 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:36:31,899 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:36:31,911 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:36:31,911 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:36:31,912 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:36:31,912 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:36:31,913 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:36:31,943 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:47:21,605 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:47:21,606 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:47:21,634 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:47:21,654 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:47:21,666 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:47:21,666 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:47:21,666 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:47:21,667 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:47:21,668 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:47:21,700 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:54:10,809 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:10,809 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:10,832 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:10,849 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:10,857 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:10,858 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:10,858 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:54:10,859 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:54:10,860 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:54:10,890 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:54:28,604 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:28,604 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:28,624 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:28,637 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:28,647 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:28,647 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:28,648 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:54:28,648 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:54:28,649 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:54:28,678 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:54:40,434 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:40,434 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:40,457 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:40,472 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:40,482 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:40,482 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:40,483 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:54:40,483 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:54:40,484 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:54:40,512 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:54:58,528 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:54:58,528 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:54:58,556 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:54:58,569 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:54:58,578 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:54:58,579 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:54:58,579 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:54:58,580 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:54:58,581 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:54:58,616 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 13:55:04,671 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 13:55:04,671 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 13:55:04,691 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 13:55:04,705 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 13:55:04,715 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 13:55:04,715 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 13:55:04,716 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 13:55:04,716 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 13:55:04,717 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 13:55:04,753 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully
+2025-10-14 14:07:28,103 — InterdepartmentalAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-14 14:07:28,104 — InterdepartmentalAnalyzer — INFO — Starting JSON load
+2025-10-14 14:07:28,123 — InterdepartmentalAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-14 14:07:28,139 — InterdepartmentalAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-14 14:07:28,149 — InterdepartmentalAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-14 14:07:28,150 — InterdepartmentalAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-14 14:07:28,150 — InterdepartmentalAnalyzer — INFO — Starting Interdepartmental Collaboration analysis
+2025-10-14 14:07:28,151 — InterdepartmentalAnalyzer — INFO — Calculating metric: collaboration_rate_percent
+2025-10-14 14:07:28,152 — InterdepartmentalAnalyzer — INFO — Metric calculated: collaboration_rate_percent = 87.5%
+2025-10-14 14:07:28,188 — InterdepartmentalAnalyzer — INFO — Interdepartmental Collaboration analysis completed successfully

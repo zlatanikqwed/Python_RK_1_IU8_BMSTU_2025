@@ -1,0 +1,190 @@
+2025-10-12 19:18:19,293 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 19:18:19,293 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 19:18:19,313 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 19:18:19,326 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 19:18:19,335 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 19:18:19,335 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 19:18:19,343 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 19:18:19,345 — InnovativeAnalyzer — INFO — Calculating metric: roi_by_project
+2025-10-12 19:18:19,358 — InnovativeAnalyzer — INFO — Metric calculated: roi_by_project = 8
+2025-10-12 19:18:19,359 — InnovativeAnalyzer — INFO — Calculating metric: avg_roi_by_type
+2025-10-12 19:18:19,384 — InnovativeAnalyzer — INFO — Metric calculated: avg_roi_by_type = R&D=0.000; Commercial=0.000
+2025-10-12 19:18:19,385 — InnovativeAnalyzer — INFO — Calculating metric: typical_payback_days
+2025-10-12 19:18:19,402 — InnovativeAnalyzer — INFO — Metric calculated: typical_payback_days = 906.2346099714019
+2025-10-12 19:18:19,402 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 20:34:39,198 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 20:34:39,198 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 20:34:39,221 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 20:34:39,237 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 20:34:39,246 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 20:34:39,247 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 20:34:39,247 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 20:34:39,248 — InnovativeAnalyzer — INFO — Calculating metric: roi_by_project
+2025-10-12 20:34:39,255 — InnovativeAnalyzer — INFO — Metric calculated: roi_by_project = 8
+2025-10-12 20:34:39,256 — InnovativeAnalyzer — INFO — Calculating metric: avg_roi_by_type
+2025-10-12 20:34:39,258 — InnovativeAnalyzer — INFO — Metric calculated: avg_roi_by_type = R&D=0.000; Commercial=0.000
+2025-10-12 20:34:39,258 — InnovativeAnalyzer — INFO — Calculating metric: typical_payback_days
+2025-10-12 20:34:39,259 — InnovativeAnalyzer — INFO — Metric calculated: typical_payback_days = 906.2346099714019
+2025-10-12 20:34:39,259 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 20:35:05,500 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 20:35:05,500 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 20:35:05,522 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 20:35:05,537 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 20:35:05,546 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 20:35:05,547 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 20:35:05,547 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 20:35:05,548 — InnovativeAnalyzer — INFO — Calculating metric: roi_by_project
+2025-10-12 20:35:05,555 — InnovativeAnalyzer — INFO — Metric calculated: roi_by_project = 8
+2025-10-12 20:35:05,555 — InnovativeAnalyzer — INFO — Calculating metric: avg_roi_by_type
+2025-10-12 20:35:05,558 — InnovativeAnalyzer — INFO — Metric calculated: avg_roi_by_type = R&D=0.000; Commercial=0.000
+2025-10-12 20:35:05,558 — InnovativeAnalyzer — INFO — Calculating metric: typical_payback_days
+2025-10-12 20:35:05,559 — InnovativeAnalyzer — INFO — Metric calculated: typical_payback_days = 906.2346099714019
+2025-10-12 20:35:05,559 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 20:36:27,950 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 20:36:27,951 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 20:36:27,974 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 20:36:27,989 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 20:36:27,999 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 20:36:28,000 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 20:36:28,000 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 20:36:28,003 — InnovativeAnalyzer — INFO — Calculating metric: roi_by_project
+2025-10-12 20:36:28,011 — InnovativeAnalyzer — INFO — Metric calculated: roi_by_project = 8
+2025-10-12 20:36:28,011 — InnovativeAnalyzer — INFO — Calculating metric: avg_roi_by_type
+2025-10-12 20:36:28,013 — InnovativeAnalyzer — INFO — Metric calculated: avg_roi_by_type = R&D=0.000; Commercial=0.000
+2025-10-12 20:36:28,014 — InnovativeAnalyzer — INFO — Calculating metric: typical_payback_days
+2025-10-12 20:36:28,015 — InnovativeAnalyzer — INFO — Metric calculated: typical_payback_days = 906.2346099714019
+2025-10-12 20:36:28,015 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 20:36:48,214 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 20:36:48,214 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 20:36:48,237 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 20:36:48,252 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 20:36:48,265 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 20:36:48,265 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 20:36:48,266 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 20:36:48,267 — InnovativeAnalyzer — INFO — Calculating metric: roi_by_project
+2025-10-12 20:36:48,275 — InnovativeAnalyzer — INFO — Metric calculated: roi_by_project = 8
+2025-10-12 20:36:48,275 — InnovativeAnalyzer — INFO — Calculating metric: avg_roi_by_type
+2025-10-12 20:36:48,278 — InnovativeAnalyzer — INFO — Metric calculated: avg_roi_by_type = R&D=0.000; Commercial=0.000
+2025-10-12 20:36:48,278 — InnovativeAnalyzer — INFO — Calculating metric: typical_payback_days
+2025-10-12 20:36:48,279 — InnovativeAnalyzer — INFO — Metric calculated: typical_payback_days = 906.2346099714019
+2025-10-12 20:36:48,280 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 20:38:31,567 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 20:38:31,567 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 20:38:31,588 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 20:38:31,604 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 20:38:31,614 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 20:38:31,614 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 20:38:31,615 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 20:38:31,616 — InnovativeAnalyzer — INFO — Calculating metric: roi_by_project
+2025-10-12 20:38:31,622 — InnovativeAnalyzer — INFO — Metric calculated: roi_by_project = 8
+2025-10-12 20:38:31,623 — InnovativeAnalyzer — INFO — Calculating metric: avg_roi_by_type
+2025-10-12 20:38:31,625 — InnovativeAnalyzer — INFO — Metric calculated: avg_roi_by_type = R&D=0.000; Commercial=0.000
+2025-10-12 20:38:31,626 — InnovativeAnalyzer — INFO — Calculating metric: typical_payback_days
+2025-10-12 20:38:31,627 — InnovativeAnalyzer — INFO — Metric calculated: typical_payback_days = 906.2346099714019
+2025-10-12 20:38:31,628 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 20:46:44,857 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 20:46:44,858 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 20:46:44,883 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 20:46:44,900 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 20:46:44,911 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 20:46:44,911 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 20:46:44,912 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 20:46:44,913 — InnovativeAnalyzer — INFO — Calculating metric: roi_by_project
+2025-10-12 20:46:44,918 — InnovativeAnalyzer — INFO — Metric calculated: roi_by_project = 8
+2025-10-12 20:46:44,919 — InnovativeAnalyzer — INFO — Calculating metric: avg_roi_by_type
+2025-10-12 20:46:44,922 — InnovativeAnalyzer — INFO — Metric calculated: avg_roi_by_type = R&D=0.000; Commercial=0.000
+2025-10-12 20:46:44,922 — InnovativeAnalyzer — INFO — Calculating metric: typical_payback_days
+2025-10-12 20:46:44,923 — InnovativeAnalyzer — INFO — Metric calculated: typical_payback_days = 906.2346099714019
+2025-10-12 20:46:44,923 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 20:51:45,111 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 20:51:45,111 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 20:51:45,134 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 20:51:45,148 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 20:51:45,163 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 20:51:45,164 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 20:51:45,164 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 20:51:45,166 — InnovativeAnalyzer — INFO — Calculating metric: roi_by_project
+2025-10-12 20:51:45,172 — InnovativeAnalyzer — INFO — Metric calculated: roi_by_project = 8
+2025-10-12 20:51:45,172 — InnovativeAnalyzer — INFO — Calculating metric: avg_roi_by_type
+2025-10-12 20:51:45,175 — InnovativeAnalyzer — INFO — Metric calculated: avg_roi_by_type = R&D=0.000; Commercial=0.000
+2025-10-12 20:51:45,175 — InnovativeAnalyzer — INFO — Calculating metric: typical_payback_days
+2025-10-12 20:51:45,176 — InnovativeAnalyzer — INFO — Metric calculated: typical_payback_days = 906.2346099714019
+2025-10-12 20:51:45,176 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 21:42:04,882 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:42:04,882 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:42:04,906 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:42:04,922 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:42:04,933 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:42:04,934 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:42:31,949 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:42:31,950 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:42:31,969 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:42:31,983 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:42:31,993 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:42:31,993 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:42:40,187 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:42:40,188 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:42:40,206 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:42:40,221 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:42:40,231 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:42:40,231 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:42:40,232 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 21:43:09,571 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:43:09,572 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:43:09,601 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:43:09,616 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:43:09,624 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:43:09,625 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:43:09,625 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness analysis
+2025-10-12 21:43:09,640 — InnovativeAnalyzer — INFO — Innovation Effectiveness analysis completed successfully
+2025-10-12 21:47:59,099 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:47:59,100 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:47:59,122 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:47:59,137 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:47:59,148 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:47:59,149 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:48:24,460 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:48:24,460 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:48:24,485 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:48:24,499 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:48:24,509 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:48:24,510 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:48:24,510 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-12 21:48:41,475 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:48:41,476 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:48:41,497 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:48:41,516 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:48:41,527 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:48:41,527 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:48:41,528 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-12 21:48:57,581 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:48:57,581 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:48:57,605 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:48:57,620 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:48:57,629 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:48:57,629 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:48:57,630 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-12 21:51:23,757 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:51:23,758 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:51:23,777 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:51:23,793 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:51:23,806 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:51:23,806 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:51:23,806 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-12 21:51:23,911 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-12 21:54:29,879 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 21:54:29,880 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 21:54:29,908 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 21:54:29,922 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 21:54:29,933 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 21:54:29,933 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 21:54:29,933 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-12 21:54:30,033 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
+2025-10-12 22:06:53,797 — InnovativeAnalyzer — INFO — Initializing BaseAnalyzer
+2025-10-12 22:06:53,798 — InnovativeAnalyzer — INFO — Starting JSON load
+2025-10-12 22:06:53,818 — InnovativeAnalyzer — INFO — JSON loaded: meta=True, dep=30, emp=755, proj=100, eq=200
+2025-10-12 22:06:53,831 — InnovativeAnalyzer — INFO — Employees DF built: 21 rows for department_id=26
+2025-10-12 22:06:53,841 — InnovativeAnalyzer — INFO — Projects DF built: 8 rows with department_id=26 participation
+2025-10-12 22:06:53,841 — InnovativeAnalyzer — INFO — DF ready: employees=21 rows; projects=8 rows
+2025-10-12 22:06:53,842 — InnovativeAnalyzer — INFO — Starting Innovation Effectiveness (global cohorts) analysis
+2025-10-12 22:06:53,932 — InnovativeAnalyzer — INFO — Innovation Effectiveness (global cohorts) analysis completed successfully
